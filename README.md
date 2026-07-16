@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CS Student | 🤖 AI Enthusiast | 💻 Aspiring Developer | 🧠 Machine Learning Explorer<br><br>Exploring the world of computer science one project at a time. Passionate about learning new technologies, solving challenging problems, and building intelligent solutions with AI & Machine Learning.<br><br>Always learning. Always building. 🚀
+💻 Full Stack Developer | CS Student | 🤖 Aspiring AI Engineer | 🧠 Machine Learning Explorer<br><br>Exploring the world of computer science one project at a time. Passionate about learning new technologies, solving challenging problems, and building intelligent solutions with AI & Machine Learning.<br><br>Always learning. Always building. 🚀
 
 
 ## 🌐 Socials:
